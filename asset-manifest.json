@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/grocery-bud/static/css/main.820eab2a.css",
+    "main.css": "/grocery-bud/static/css/main.80d02c21.css",
     "main.js": "/grocery-bud/static/js/main.6eb56b08.js",
     "static/media/grocery.svg": "/grocery-bud/static/media/grocery.1fb6f0d0c18410e979a406d97ff8edd2.svg",
     "index.html": "/grocery-bud/index.html",
-    "main.820eab2a.css.map": "/grocery-bud/static/css/main.820eab2a.css.map",
+    "main.80d02c21.css.map": "/grocery-bud/static/css/main.80d02c21.css.map",
     "main.6eb56b08.js.map": "/grocery-bud/static/js/main.6eb56b08.js.map"
   },
   "entrypoints": [
-    "static/css/main.820eab2a.css",
+    "static/css/main.80d02c21.css",
     "static/js/main.6eb56b08.js"
   ]
 }
